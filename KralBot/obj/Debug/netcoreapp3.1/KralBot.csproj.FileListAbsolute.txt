@@ -1,0 +1,163 @@
+C:\Users\USER\source\repos\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.exe
+C:\Users\USER\source\repos\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.AssemblyInfo.cs
+C:\Users\USER\source\repos\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.deps.json
+C:\Users\USER\source\repos\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.runtimeconfig.json
+C:\Users\USER\source\repos\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.runtimeconfig.dev.json
+C:\Users\USER\source\repos\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.dll
+C:\Users\USER\source\repos\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.pdb
+C:\Users\USER\source\repos\KralBot\KralBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\KralBot\KralBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\USER\source\repos\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csproj.CopyComplete
+C:\Users\USER\source\repos\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.dll
+C:\Users\USER\source\repos\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.pdb
+C:\Users\USER\source\repos\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.genruntimeconfig.cache
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.exe
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.deps.json
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.runtimeconfig.json
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.runtimeconfig.dev.json
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.pdb
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csprojAssemblyReference.cache
+C:\Users\Ress\Desktop\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.AssemblyInfoInputs.cache
+C:\Users\Ress\Desktop\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.AssemblyInfo.cs
+C:\Users\Ress\Desktop\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csproj.CopyComplete
+C:\Users\Ress\Desktop\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.pdb
+C:\Users\Ress\Desktop\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.genruntimeconfig.cache
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\NCrontab.Signed.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ress\Desktop\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csproj.CoreCompileInputs.cache
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.exe
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.deps.json
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.runtimeconfig.json
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.runtimeconfig.dev.json
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.pdb
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\NCrontab.Signed.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csprojAssemblyReference.cache
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.AssemblyInfoInputs.cache
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.AssemblyInfo.cs
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csproj.CoreCompileInputs.cache
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csproj.CopyComplete
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.dll
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.pdb
+C:\Users\Ress\Desktop\Новая папка\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.genruntimeconfig.cache
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.exe
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.deps.json
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.runtimeconfig.json
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.runtimeconfig.dev.json
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\KralBot.pdb
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.Storage.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\NCrontab.Signed.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NotWebProjects\KralBot\KralBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NotWebProjects\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csprojAssemblyReference.cache
+D:\NotWebProjects\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.AssemblyInfoInputs.cache
+D:\NotWebProjects\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.AssemblyInfo.cs
+D:\NotWebProjects\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csproj.CoreCompileInputs.cache
+D:\NotWebProjects\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.csproj.CopyComplete
+D:\NotWebProjects\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.dll
+D:\NotWebProjects\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.pdb
+D:\NotWebProjects\KralBot\KralBot\obj\Debug\netcoreapp3.1\KralBot.genruntimeconfig.cache
